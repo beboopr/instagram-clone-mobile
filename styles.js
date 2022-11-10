@@ -2,7 +2,6 @@ import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
     feed: {
-        marginTop: 52,
         flex: 1,
         backgroundColor: 'white',
     },
@@ -18,7 +17,6 @@ const styles = StyleSheet.create({
     images: {
         width: '100%',
         aspectRatio: 1,
-        flex: 1,
     },
 
     cardHeader: {
